@@ -1,2 +1,1 @@
-# counter
-Created a counter for Bad Website's bootcamp
+Created a counter for Bad Website's bootcamp using [freeCodeCamp's curriculum](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-form-validation-by-building-a-calorie-counter/step-1).
